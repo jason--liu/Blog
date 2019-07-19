@@ -23,7 +23,6 @@ MyBlog
 
 ### [Linux系统/内核](https://github.com/jason--liu/Blog/projects/3)
 - [Linux USB总线驱动回顾](https://github.com/jason--liu/Blog/issues/10) 
-- [Linux USB总线驱动回顾](https://github.com/jason--liu/Blog/issues/10)
 - [Kernel中添加开机logo](https://github.com/jason--liu/Blog/issues/15)
 - [Linux epoll原理及内核实现](https://github.com/jason--liu/Blog/issues/6)
 
