@@ -12,6 +12,7 @@ MyBlog
 - [音视频处理基础知识](https://github.com/jason--liu/Blog/issues/16)
 - [FFmpeg初级开发](https://github.com/jason--liu/Blog/issues/14)
 - [使用FFmpeg提取mp4文件中的H264码流](https://github.com/jason--liu/Blog/issues/17)
+- [FFmpeg中的pts和dts](https://github.com/jason--liu/Blog/issues/18)
 
 
 ### [Android系统](https://github.com/jason--liu/Blog/projects/1)
