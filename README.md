@@ -10,8 +10,9 @@ MyBlog
 - [FFmpeg编译记录](https://github.com/jason--liu/Blog/issues/11)
 - [FFmpeg常用命令](https://github.com/jason--liu/Blog/issues/13)
 - [音视频处理基础知识](https://github.com/jason--liu/Blog/issues/16)
-- [使用FFmpeg提取mp4文件中的H264码流](https://github.com/jason--liu/Blog/issues/17)
 - [FFmpeg初级开发](https://github.com/jason--liu/Blog/issues/14)
+- [使用FFmpeg提取mp4文件中的H264码流](https://github.com/jason--liu/Blog/issues/17)
+
 
 ### [Android系统](https://github.com/jason--liu/Blog/projects/1)
 - [开机优化](https://github.com/jason--liu/Blog/issues/1) 
