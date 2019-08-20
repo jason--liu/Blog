@@ -14,6 +14,7 @@ MyBlog
 - [使用FFmpeg提取mp4文件中的H264码流](https://github.com/jason--liu/Blog/issues/17)
 - [FFmpeg中的pts和dts](https://github.com/jason--liu/Blog/issues/18)
 - [FFmpeg音视频编解码](https://github.com/jason--liu/Blog/issues/19)
+- [理解YUV编码](https://github.com/jason--liu/Blog/issues/24)
 
 
 ### [Android系统](https://github.com/jason--liu/Blog/projects/1)
