@@ -28,6 +28,7 @@ MyBlog
 - [TCP/IP三次握手，四次挥手](https://github.com/jason--liu/Blog/issues/3) 
 - [listen、accept函数深入理解](https://github.com/jason--liu/Blog/issues/4) 
 - [5种IO模型、阻塞/非阻塞IO、同步/异步IO](https://github.com/jason--liu/Blog/issues/5)
+- [V4L2编程基本步骤](https://github.com/jason--liu/Blog/issues/30)
 
 ### [Linux系统/内核](https://github.com/jason--liu/Blog/projects/3)
 - [Linux USB总线驱动回顾](https://github.com/jason--liu/Blog/issues/10) 
