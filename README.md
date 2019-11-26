@@ -36,7 +36,7 @@ MyBlog
 - [Linux epoll原理及内核实现](https://github.com/jason--liu/Blog/issues/6)
 
 ### [疑难问题处理]()
-- [carplay反复连接30左右连不上]
+- [carplay反复连接30左右连不上](https://github.com/jason--liu/Blog/issues/20)
 - [恢复出厂设置时系统卡死]
 
 
