@@ -39,4 +39,6 @@ MyBlog
 - [carplay反复连接30左右连不上](https://github.com/jason--liu/Blog/issues/20)
 - [恢复出厂设置时系统卡死]
 
+### 读书笔记  
+- [Linux Kernel Development](https://github.com/jason--liu/Blog/projects/5)
 
