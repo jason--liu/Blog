@@ -12,6 +12,8 @@ MyBlog
 - [Linux epoll原理及内核实现](https://github.com/jason--liu/Blog/issues/6)
 - [centos7网卡命名规则](https://github.com/jason--liu/Blog/issues/42)
 - [Linux mmap映射过程](https://github.com/jason--liu/Blog/issues/41)
+- [记一次僵尸进程分析过程](https://github.com/jason--liu/Blog/issues/45)
+
 
 ### [FFmpeg音视频处理](https://github.com/jason--liu/Blog/projects/4)
 - [FFmpeg编译记录](https://github.com/jason--liu/Blog/issues/11)
