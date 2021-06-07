@@ -13,6 +13,7 @@ MyBlog
 - [centos7网卡命名规则](https://github.com/jason--liu/Blog/issues/42)
 - [Linux mmap映射过程](https://github.com/jason--liu/Blog/issues/41)
 - [记一次僵尸进程分析过程](https://github.com/jason--liu/Blog/issues/45)
+- [透过bcc来观察程序io慢的问题](https://github.com/jason--liu/Blog/issues/65)
 
 
 ### [aarch64体系结构与编程](https://github.com/jason--liu/Blog/projects/6)
